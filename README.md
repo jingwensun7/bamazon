@@ -9,3 +9,6 @@ Customer View
   
   JavaScript, NodeJS, 
   NPMs: inquirer & MySQL
+  
+  
+  <img src="1.png" height="400" width="800" alt="Screenshot1"/> 
