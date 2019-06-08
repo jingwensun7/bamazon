@@ -7,13 +7,15 @@ Customer View
   * * * receive user input using the `inquirer` npm package.
   
   
+  
   JavaScript, NodeJS, 
   NPMs: inquirer & MySQL
   
   
-  Install MySQL
-  Install Inquirer
-  Change password to your password
+  
+  **Install MySQL
+  **Install Inquirer
+  **Change password to your password
   
   
   <img src="screenshots/1.png" height="400" width="800" alt="Screenshot1"/> 
