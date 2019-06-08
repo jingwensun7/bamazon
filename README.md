@@ -11,4 +11,12 @@ Customer View
   NPMs: inquirer & MySQL
   
   
-  <img src="1.png" height="400" width="800" alt="Screenshot1"/> 
+  Install MySQL
+  Install Inquirer
+  Change password to your password
+  
+  
+  <img src="screenshots/1.png" height="400" width="800" alt="Screenshot1"/> 
+  <img src="screenshots/2.png" height="400" width="800" alt="Screenshot2"/> 
+  <img src="screenshots/3.png" height="400" width="800" alt="Screenshot3"/> 
+  <img src="screenshots/4.png" height="400" width="800" alt="Screenshot4"/> 
